@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: himalaya-change-bot
+    env: python
+    plan: free
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
