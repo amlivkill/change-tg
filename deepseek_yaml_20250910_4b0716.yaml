@@ -5,5 +5,5 @@ services:
     plan: free
     dockerfilePath: Dockerfile
     envVars:
-      - key: BOT_TOKEN
+      - key: 8322403658:AAGSJ_UOqxXsV6hlBDwXJl5AfEdojrRy-VA
         sync: false
