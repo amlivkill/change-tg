@@ -25,7 +25,7 @@ from aiohttp import web
 
 # ---------- Configuration ----------
 BOT_USERNAME = "@HimalayaChangeBot"
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")  # Get token from environment
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8322403658:AAGSJ_UOqxXsV6hlBDwXJl5AfEdojrRy-VA")  # Get token from environment
 
 # Basic content in English and Hindi
 CONTENT = {
